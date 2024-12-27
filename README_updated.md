@@ -1,5 +1,5 @@
 # Project Summary:
-Our project, "Essence of India: Interactive Biryani and Side Dish Explorer", is a web-based interactive recipe website focusing on Indian cuisine, particularly Biryani and its accompanying side dishes. The website will utilize HTML and CSS to create an engaging user experience with interactive elements such as transformations, transitions, and animations. The project aims to make authentic Biryani recipes accessible to a global audience, catering to both experienced and beginner cooks.
+The project, "Essence of India: Interactive Biryani and Side Dish Explorer", is a web-based interactive recipe website focusing on Indian cuisine, particularly Biryani and its accompanying side dishes. The website will utilize HTML and CSS to create an engaging user experience with interactive elements such as transformations, transitions, and animations. The project aims to make authentic Biryani recipes accessible to a global audience, catering to both experienced and beginner cooks.
 
 ## Key Features:
 - Interactive recipe pages with popup ingredients and directions
@@ -7,11 +7,6 @@ Our project, "Essence of India: Interactive Biryani and Side Dish Explorer", is 
 - Estimated preparation time for each dish
 - Interesting facts about the recipes
 - Use of transforms, transitions, and animations for enhanced interactivity
-
-## Proposed Wireframe: 
-
-The proposed wireframe for the project is as follows:
-https://www.figma.com/proto/qznitOZUmrIaAUKQdFjmda/WP-Project1?node-id=1-5&t=YrvRyvm0i6IJ4j7U-1
 
 ## Homepage details (intro):
 The homepage will feature a grid layout of dish images, each linking to its respective recipe page. It will include an introductory section about Biryani cuisine and the website's purpose.
